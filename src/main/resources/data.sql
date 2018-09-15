@@ -1,0 +1,5 @@
+insert into smartread (ACCOUNT_NUMBER, GAS_ID, ELEC_ID, ELEC_SMART_READ, GAS_SMART_READ)
+values(1,1,1, 230.4, 1200.6);
+
+insert into smartread (ACCOUNT_NUMBER, GAS_ID, ELEC_ID, ELEC_SMART_READ, GAS_SMART_READ)
+values(2,1,1, 145.65, 345.6);
